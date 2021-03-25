@@ -76,12 +76,14 @@ Regression is a supervised learning technique which helps in finding the correla
 
 #### Clustering based projects
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+
 Cluster analysis, or clustering, is an unsupervised machine learning task. It involves automatically discovering natural grouping in data. Unlike supervised learning (like predictive modeling), clustering algorithms only interpret the input data and find natural groups or clusters in feature space.
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Clustering)
 
 #### Recommender system based projects
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fbuild-your-own-recommender-system-within-5-minutes-30dd40388fbf&psig=AOvVaw2OdOit6nP2GKWokr_V0cSl&ust=1616740392156000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLC1i7npyu8CFQAAAAAdAAAAABAD)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+
 Machine learning algorithms in recommender systems are typically classified into two categories — content based and collaborative filtering methods although modern recommenders combine both approaches. The task of machine learning is to learn a function that predicts utility of items to each user.
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Recommender%20system)
