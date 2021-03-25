@@ -8,7 +8,7 @@ As an AI mentor, I manage a website on AI (https://www.datasciencestunt.com) wit
 Conducted 5 days workshop for budding data scientists at National Institute of Technology
 
 ##### AN EDUCATIONAL WEBSITE ON AI
-Data Science Stunt (https://www.datasciencestunt.com) presents to you a universe of artificial intelligence. Aim is to demystify Artificial Intelligence, Machine Learning, Data Science, Deep Learning, Business Analytics, Big Data, Data Visualizations tools and techniques, Mathematics behind ML : Statistics, Probability, Linear Algebra, Calculus etc.
+[Data Science Stunt](https://www.datasciencestunt.com) presents to you a universe of artificial intelligence. Aim is to demystify Artificial Intelligence, Machine Learning, Data Science, Deep Learning, Business Analytics, Big Data, Data Visualizations tools and techniques, Mathematics behind ML etc.
 
 ##### GUEST SPEAKER: MACHINE LEARNING
 Organized by: Confederation of Indian Industry (CII) & Young Indians (Yi)
