@@ -64,18 +64,22 @@ Got trained in Operating System, Analysis of Algorithms, Object-Oriented Program
 
 #### Classification based projects
 In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
+
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
 
 #### Regression based projects
 Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
+
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
 #### Clustering based projects
 Cluster analysis, or clustering, is an unsupervised machine learning task. It involves automatically discovering natural grouping in data. Unlike supervised learning (like predictive modeling), clustering algorithms only interpret the input data and find natural groups or clusters in feature space.
+
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Clustering)
 
 #### Recommender system based projects
 Machine learning algorithms in recommender systems are typically classified into two categories — content based and collaborative filtering methods although modern recommenders combine both approaches. The task of machine learning is to learn a function that predicts utility of items to each user.
+
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Recommender%20system)
 
 
