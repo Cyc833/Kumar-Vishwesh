@@ -64,12 +64,14 @@ Got trained in Operating System, Analysis of Algorithms, Object-Oriented Program
 
 #### Classification based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/kumar_vishwesh/main/images/Classification.png)
+
 In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
 
 #### Regression based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/kumar_vishwesh/main/images/Regression.jpg)
+
 Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
@@ -82,7 +84,7 @@ Cluster analysis, or clustering, is an unsupervised machine learning task. It in
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Clustering)
 
 #### Recommender system based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/kumar_vishwesh/main/images/RS.jpg)
+![alt text](https://raw.githubusercontent.com/krvishwesh54/kumar_vishwesh/main/images/RS.jpeg)
 
 Machine learning algorithms in recommender systems are typically classified into two categories — content based and collaborative filtering methods although modern recommenders combine both approaches. The task of machine learning is to learn a function that predicts utility of items to each user.
 
@@ -92,5 +94,7 @@ Machine learning algorithms in recommender systems are typically classified into
 ## CONTACT
 Email: kr.vishwesh54@gmail.com
 Mobile: +91-7358410897
+
 [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/)
+
 [Website](https://datasciencestunt.com/)
