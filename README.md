@@ -14,3 +14,50 @@ Data Science Stunt (https://www.datasciencestunt.com) presents to you a universe
 
 ### GUEST SPEAKER: MACHINE LEARNING
 Organized by: Confederation of Indian Industry (CII) & Young Indians (Yi)
+
+## Experience
+
+### BOSTON CONSULTING GROUP
+SENIOR ANALYST
+June-2019 to Present: 1 year 10 Months
+
+ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
+UNIT: BCG GAMMA
+
+Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+
+### ACCENTURE
+SENIOR ANALYST
+Jan-2018 to June-2019: 1 year 6 Months
+
+ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
+UNIT: AI capability @ Accenture Innovation Hub, India
+
+Worked on various aspects of AI and implementing intelligent solutions like incident prediction by applying ML techniques on log data, server health prediction, insurance claim prediction, user/case segmentation, supply chain analytics, inventory optimization, etc.
+
+### DXC TECHNOLOGY
+APPLICATION ENGINEER
+Feb-2017 to Jan-2018: 1 year
+
+ROLE: Data Scientist/ Machine Learning Engineer
+UNIT: Development center of the world's best payment gateway company (On-Site)
+
+Played a vital role in process automation (Intelligent Automation using Machine Learning techniques). Worked on data science projects for auto action on issues in IT operations like ticket classification, ticket similarity, etc. Worked as a software developer, involved in algorithm design and implementation.
+
+### HCL TECHNOLOGIES
+SOFTWARE ENGINEER
+Feb-2015 to Feb-2017: 2 years 1 Month
+
+ROLE: Data Scientist/ Machine Learning Engineer
+UNIT: HCL Innovation Lab
+
+Gained expertise in core design and algorithm analysis (Java/Python), Natural Language Processing, Machine Learning, Chatbot implementation, etc. Researched new technologies, implemented algorithms for mobile-based and web-based solutions like text analytics tools, etc.
+
+### INFOSYS
+SYSTEM ENGINEER TRAINEE
+Jul-2014 to Dec-2014: 6 Months
+
+ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
+UNIT: Global Education Centre
+
+Got trained in Operating System, Analysis of Algorithms, Object-Oriented Programming, Eclipse IDE, Java, J2EE, JavaScript, SQL, HTML, etc.
