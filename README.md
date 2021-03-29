@@ -7,6 +7,11 @@ I am Kumar Vishwesh, a seasoned data scientist with ~7 years of progressive expe
 
 As an AI mentor, I manage a website on AI (https://www.datasciencestunt.com) with a vision to edify budding data scientists. I have conducted a workshop on AI/ ML at the National Institute of Technology, delivered talk on ML at an event organized by CII and built AI capability within the teams at work.
 
+[EXPERIENCE](## EXPERIENCE) EXPERIENCE<a name="EXPERIENCE"></a> 
+[PROJECTS](## PROJECTS) PROJECTS<a name="PROJECTS"></a> 
+[FEATURED](## FEATURED) FEATURED<a name="FEATURED"></a> 
+ 
+
 ## EXPERIENCE
 
 ##### BOSTON CONSULTING GROUP
