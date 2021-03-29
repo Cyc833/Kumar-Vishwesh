@@ -1,5 +1,6 @@
 ## CONTACT
-__Email:__ kr.vishwesh54@gmail.com __Mobile:__ +91-7358410897 [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) [Website](https://datasciencestunt.com/)
+__Email:__ kr.vishwesh54@gmail.com __Mobile:__ +91-7358410897 
+[LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) [Website](https://datasciencestunt.com/)
 
 ## ABOUT
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/kumar_vishwesh/main/images/profile.jpg)
