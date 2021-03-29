@@ -10,6 +10,8 @@ As an AI mentor, I manage a website on AI (https://www.datasciencestunt.com) wit
 [EXPERIENCE](#EXPERIENCE)<a name="EXPERIENCE"></a> 
 [PROJECTS](#PROJECTS)<a name="PROJECTS"></a> 
 [FEATURED](#FEATURED) <a name="FEATURED"></a> 
+
+<a href="# PROJECTS">Go To Projects</a>
  
 
 # EXPERIENCE
