@@ -1,10 +1,10 @@
-## CONTACT
+### CONTACT
 ✉️: kr.vishwesh54@gmail.com 
 &nbsp;&nbsp; 📲 +91-7358410897 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[LinkedIn]__(https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __[Website]__(https://datasciencestunt.com/)
 
-## ABOUT
+### ABOUT
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/kumar_vishwesh/main/images/profile.jpg)
 
 I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
@@ -12,12 +12,10 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 As an AI mentor, I manage a website on AI (https://www.datasciencestunt.com) with a vision to edify budding data scientists. I have conducted a workshop on AI/ ML at the National Institute of Technology, delivered talk on ML at an event organized by CII and built AI capability within the teams at work.
 
 [EXPERIENCE](#experience) <br>
-
 [PROJECTS](#projects) <br>
-
 [FEATURED](#featured) <br> 
 
-## EXPERIENCE
+### EXPERIENCE
 
 #### BOSTON CONSULTING GROUP
 SENIOR ANALYST
@@ -64,14 +62,14 @@ UNIT: Global Education Centre
 
 Got trained in Operating System, Analysis of Algorithms, Object-Oriented Programming, Eclipse IDE, Java, J2EE, JavaScript, SQL, HTML, etc.
 
-## PROJECTS
+### PROJECTS
 
 [Classification based projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
 [Clustering based projects](#clustering-based-projects) <br>
 [Recommender system based projects](#recommender-system-based-projects) <br>
 
-### Classification based projects
+#### Classification based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/kumar_vishwesh/main/images/Classification.png)
 
 In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
