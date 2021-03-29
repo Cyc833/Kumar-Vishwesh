@@ -7,6 +7,8 @@ Mobile: +91-7358410897
 
 [Website](https://datasciencestunt.com/)
 ## ABOUT
+![alt text](https://raw.githubusercontent.com/krvishwesh54/kumar_vishwesh/main/images/download_1.jpg)
+
 I am Kumar Vishwesh, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
 
 As an AI mentor, I manage a website on AI (https://www.datasciencestunt.com) with a vision to edify budding data scientists. I have conducted a workshop on AI/ ML at the National Institute of Technology, delivered talk on ML at an event organized by CII and built AI capability within the teams at work.
