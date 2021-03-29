@@ -7,11 +7,11 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 
 As an AI mentor, I manage a website on AI (https://www.datasciencestunt.com) with a vision to edify budding data scientists. I have conducted a workshop on AI/ ML at the National Institute of Technology, delivered talk on ML at an event organized by CII and built AI capability within the teams at work.
 
-[EXPERIENCE](#EXPERIENCE)<a name="EXPERIENCE"></a> <br>
+[EXPERIENCE](#experience) <br>
 
-[PROJECTS](#PROJECTS)<a name="PROJECTS"></a> <br>
+[PROJECTS](#projects) <br>
 
-[FEATURED](#FEATURED) <a name="FEATURED"></a> <br> 
+[FEATURED](#featured) <br> 
 
 # EXPERIENCE
 
@@ -62,10 +62,10 @@ Got trained in Operating System, Analysis of Algorithms, Object-Oriented Program
 
 # PROJECTS
 
-[Classification based projects](####Classification based projects)<a name="Classification based projects"></a> <br>
-[Regression based projects](####Regression based projects)<a name="Regression based projects"></a> <br>
-[Clustering based projects](####Clustering based projects) <a name="Clustering based projects"></a> <br>
-[Recommender system based projects](####Recommender system based projects) <a name="Recommender system based projects"></a> <br>
+[Classification based projects](####classification-based-projects)<a name="Classification based projects"></a> <br>
+[Regression based projects](####regression-based-projects)<a name="Regression based projects"></a> <br>
+[Clustering based projects](####clustering-based-projects) <a name="Clustering based projects"></a> <br>
+[Recommender system based projects](####recommender-system-based-projects) <br>
 
 #### Classification based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/kumar_vishwesh/main/images/Classification.png)
