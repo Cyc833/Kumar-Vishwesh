@@ -62,10 +62,10 @@ Got trained in Operating System, Analysis of Algorithms, Object-Oriented Program
 
 # PROJECTS
 
-[Classification based projects](###classification-based-projects) <br>
-[Regression based projects](###regression-based-projects) <br>
-[Clustering based projects](###clustering-based-projects) <br>
-[Recommender system based projects](###recommender-system-based-projects) <br>
+[Classification based projects](#classification-based-projects) <br>
+[Regression based projects](#regression-based-projects) <br>
+[Clustering based projects](#clustering-based-projects) <br>
+[Recommender system based projects](#recommender-system-based-projects) <br>
 
 ### Classification based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/kumar_vishwesh/main/images/Classification.png)
