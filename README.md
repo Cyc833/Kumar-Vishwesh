@@ -15,7 +15,7 @@ As an AI mentor, I manage a website on AI (https://www.datasciencestunt.com) wit
 
 # EXPERIENCE
 
-##### BOSTON CONSULTING GROUP
+#### BOSTON CONSULTING GROUP
 SENIOR ANALYST
 June-2019 to Present: 1 year 10 Months
 
@@ -24,7 +24,7 @@ UNIT: BCG GAMMA
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
-##### ACCENTURE
+#### ACCENTURE
 SENIOR ANALYST
 Jan-2018 to June-2019: 1 year 6 Months
 
@@ -33,7 +33,7 @@ UNIT: AI capability @ Accenture Innovation Hub, India
 
 Worked on various aspects of AI and implementing intelligent solutions like incident prediction by applying ML techniques on log data, server health prediction, insurance claim prediction, user/case segmentation, supply chain analytics, inventory optimization, etc.
 
-##### DXC TECHNOLOGY
+#### DXC TECHNOLOGY
 APPLICATION ENGINEER
 Feb-2017 to Jan-2018: 1 year
 
@@ -42,7 +42,7 @@ UNIT: Development center of the world's best payment gateway company (On-Site)
 
 Played a vital role in process automation (Intelligent Automation using Machine Learning techniques). Worked on data science projects for auto action on issues in IT operations like ticket classification, ticket similarity, etc. Worked as a software developer, involved in algorithm design and implementation.
 
-##### HCL TECHNOLOGIES
+#### HCL TECHNOLOGIES
 SOFTWARE ENGINEER
 Feb-2015 to Feb-2017: 2 years 1 Month
 
@@ -51,7 +51,7 @@ UNIT: HCL Innovation Lab
 
 Gained expertise in core design and algorithm analysis (Java/Python), Natural Language Processing, Machine Learning, Chatbot implementation, etc. Researched new technologies, implemented algorithms for mobile-based and web-based solutions like text analytics tools, etc.
 
-##### INFOSYS
+#### INFOSYS
 SYSTEM ENGINEER TRAINEE
 Jul-2014 to Dec-2014: 6 Months
 
@@ -62,12 +62,12 @@ Got trained in Operating System, Analysis of Algorithms, Object-Oriented Program
 
 # PROJECTS
 
-[Classification based projects](####classification-based-projects)<a name="Classification based projects"></a> <br>
-[Regression based projects](####regression-based-projects)<a name="Regression based projects"></a> <br>
-[Clustering based projects](####clustering-based-projects) <a name="Clustering based projects"></a> <br>
-[Recommender system based projects](####recommender-system-based-projects) <br>
+[Classification based projects](###classification-based-projects) <br>
+[Regression based projects](###regression-based-projects) <br>
+[Clustering based projects](###clustering-based-projects) <br>
+[Recommender system based projects](###recommender-system-based-projects) <br>
 
-#### Classification based projects
+### Classification based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/kumar_vishwesh/main/images/Classification.png)
 
 In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
