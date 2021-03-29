@@ -9,14 +9,14 @@
 
 I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
 
-[EXPERIENCE](#experience) <br>
-[PROJECTS](#projects) <br>
-[FEATURED](#featured) <br> 
+[Experience](#experience) <br>
+[Projects](#projects) <br>
+[Featured](#featured) <br> 
 
 ### EXPERIENCE
 
 ##### BOSTON CONSULTING GROUP
-SENIOR ANALYST
+SENIOR ANALYST<br>
 June-2019 to Present: 1 year 10 Months
 
 ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
@@ -25,7 +25,7 @@ UNIT: BCG GAMMA
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
 ##### ACCENTURE
-SENIOR ANALYST
+SENIOR ANALYST<br>
 Jan-2018 to June-2019: 1 year 6 Months
 
 ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
@@ -34,7 +34,7 @@ UNIT: AI capability @ Accenture Innovation Hub, India
 Worked on various aspects of AI and implementing intelligent solutions like incident prediction by applying ML techniques on log data, server health prediction, insurance claim prediction, user/case segmentation, supply chain analytics, inventory optimization, etc.
 
 #### DXC TECHNOLOGY
-APPLICATION ENGINEER
+APPLICATION ENGINEER<br>
 Feb-2017 to Jan-2018: 1 year
 
 ROLE: Data Scientist/ Machine Learning Engineer
@@ -43,7 +43,7 @@ UNIT: Development center of the world's best payment gateway company (On-Site)
 Played a vital role in process automation (Intelligent Automation using Machine Learning techniques). Worked on data science projects for auto action on issues in IT operations like ticket classification, ticket similarity, etc. Worked as a software developer, involved in algorithm design and implementation.
 
 ##### HCL TECHNOLOGIES
-SOFTWARE ENGINEER
+SOFTWARE ENGINEER<br>
 Feb-2015 to Feb-2017: 2 years 1 Month
 
 ROLE: Data Scientist/ Machine Learning Engineer
@@ -52,7 +52,7 @@ UNIT: HCL Innovation Lab
 Gained expertise in core design and algorithm analysis (Java/Python), Natural Language Processing, Machine Learning, Chatbot implementation, etc. Researched new technologies, implemented algorithms for mobile-based and web-based solutions like text analytics tools, etc.
 
 ##### INFOSYS
-SYSTEM ENGINEER TRAINEE
+SYSTEM ENGINEER TRAINEE<br>
 Jul-2014 to Dec-2014: 6 Months
 
 ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
