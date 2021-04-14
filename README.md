@@ -68,28 +68,28 @@ Got trained in Operating System, Analysis of Algorithms, Object-Oriented Program
 [Recommender system based projects](#recommender-system-based-projects) <br>
 
 #### Classification based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/kumar_vishwesh/main/images/Classification.png)
+![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
 
 In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
 
 #### Regression based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/kumar_vishwesh/main/images/Regression.jpg)
+![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
 
 Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
 #### Clustering based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/kumar_vishwesh/main/images/Clustering.jpg)
+![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Clustering.jpg)
 
 Cluster analysis, or clustering, is an unsupervised machine learning task. It involves automatically discovering natural grouping in data. Unlike supervised learning (like predictive modeling), clustering algorithms only interpret the input data and find natural groups or clusters in feature space.
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Clustering)
 
 #### Recommender system based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/kumar_vishwesh/main/images/RS.jpeg)
+![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/RS.jpeg)
 
 Machine learning algorithms in recommender systems are typically classified into two categories — content based and collaborative filtering methods although modern recommenders combine both approaches. The task of machine learning is to learn a function that predicts utility of items to each user.
 
