@@ -21,10 +21,19 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
+[Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
 
 <!-- ABOUT Section Ends -->
+
+<!-- EDUCATION Section Starts -->
+### EDUCATION
+<!-- Add your details -->
+##### LNCT Bhopal
+Engineering Graduate 2010-14
+
+<!-- EDUCATION Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
